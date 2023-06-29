@@ -9,6 +9,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML 5
 - JAVASCRIPT
 - REACT
+- VITE
 
 --- 
 
